@@ -54,7 +54,7 @@ committee will run:
 * Community members will be sharing very private information with the
   committee, and their privacy is therefore very important. However, in
   some or all cases, it can be important to share information with other
-  committee members. This requires are careful process.
+  committee members. This requires a careful process.
 * A committee member, or the committee as a whole, is always free to
   be no longer willing to support a community member.
 * If a community member shows behaviour towards a committee member that
